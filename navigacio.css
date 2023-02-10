@@ -1,0 +1,9 @@
+.flexEnd {
+    justify-content: flex-end;
+}
+.flexStart {
+    justify-content: flex-start;
+}
+.flexContainer{
+    justify-content: space-between;
+}
